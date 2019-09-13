@@ -1,4 +1,4 @@
-# Code-Along: Building the `all?` method
++# Code-Along: Building the `all?` method
 
 ## Objectives
 
